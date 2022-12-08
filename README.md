@@ -25,6 +25,40 @@ Clicky Online Shopping App – Best Online Shopping App in Pakistan
 <img src="https://github.com/jaawaadz/jaawaadz/blob/main/click1.webp" width ="180"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/clicky2.webp" width ="180"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/clicky3.webp" width ="180"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/clicky4.webp" width ="180">
 
 
+## MyNetDiary (Exercise and Diet)
+Exercise and Diet App is API base app, in which Diet Details comes
+from server, when we post the data of the User. User can Set his exercise Plan, and App recommends the Exercise. I solo Work on this project and this Project I use Timer to tract the exercise, Retrofit for the API, Lottie for the Animations.
+Free Calorie Tracker features include:
+• Lightning-fast food journal with barcode scanner and instant search, taking only seconds to log your foods
+• Robust mega-database of food labels validated and updated daily with restaurants, grocery stores, special diets, and ethnic foods
+• Exercise tracker supporting over 500 types of exercise
+• Daily coaching messages and tips
+• Customizable dashboard - you control how the app looks and works
+• Google Fit and Samsung Health integration
+• Custom food and recipe editor 
+• Water Tracker
+• Steps Tracker
+• Gentle, optional reminders for logging meals and weigh-ins
+• Shopping list for foods and any other grocery items
+• Diet and Nutrition articles written and continuously updated by our Registered Dietitians, organized in blog and diet-specific collections.
+• Professional Connect: free and easy - connect with your dietitian or trainer via MyNetDiary, to share your diary and get feedback - to help you achieve your goals.
+
+MyNetDiary Premium provides all the guidance and features you may need for the best results:
+• Premium Diets, including Low-Carb, Keto, High-Protein, Mediterranean, Vegetarian and more - with a diet plan, guides and feedback. It's much more than just a diet tracker.
+• Autopilot adjusting your calorie budget automatically, guiding you to your goal weight
+• Up to 50 Health Trackers: blood pressure, cholesterol, blood glucose, A1C, ketones, medications, symptoms, body measurements, your data from linked apps & devices and custom trackers.
+• 520 Premium Recipes and 200 Premium meal developed by our Registered Dietitians - easy, tasty and tweakable.
+• Premium Menus help you plan and balance your nutrition throughout the week
+• Recipe Import loads your favorite recipes from the web and calculates complete nutrition automatically
+• Recipe Database with over 370,000 dishes and detailed nutrition facts
+• Calorie and macros tracker supporting macros cycling 
+• Link fitness trackers, such as Fitbit, Garmin, and Withings to to balance your daily calorie budgets. Analyze your diet along with your tracked steps, floors, blood pressure, sleep patterns or anything else. 
+• Track up to 50 nutrients, set custom targets, get the recommendations for optimal nutrition
+• Total data privacy and protection - no account required, and we don't sell your info to 3rd parties
+
+<img src="https://github.com/jaawaadz/jaawaadz/blob/main/d1.webp" width ="180"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/d2.webp" width ="180"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/d3.webp" width ="180"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/d3.webp" width ="180"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/d5.webp" width ="180">
+
+
 
 ## Thumbnail Maker - Channel art
 With this free thumbnail maker for YouTube , you can quickly and easily create stunning thumbnails, banners and cover photos for multiple social media platforms. This offers awesome thumbnails & banners for youtube the best experience you can get with a design app. Thumbnail Maker is a Sticker Editing App, in which Some Templates are load from Server and the user can Easily Edit them. We use Amazon S3 Server for the Json and Asserts. The StickerView is created by parsing Json to Gson. Editor has all the Functionalities like EditText, Styling, Font, etc. These all are also use by the user to create Custom Templates. I solo Work on that project. I use Json Parsing, Glide, Threads, AysncTask, data binding, View Model, Live Data, Resource Directory, Firebase Analytics and other Different 3rd Party Libraries.
