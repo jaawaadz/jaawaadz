@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Ahmad Jawad
+## I'm Ahmad Jawad
 ### Android Development
 ![Android Development](https://github.com/jaawaadz/jaawaadz/blob/main/20221208_160422.jpg)
 
