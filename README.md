@@ -19,13 +19,18 @@ So, now, in practical life, this passion remains with me. There's certainly yet 
 ### Project and Contribution: 
 
 ## Clicky Online Shopping App
+
 Clicky Online Shopping App – Best Online Shopping App in Pakistan
 🛍️ Perfect Online Shopping App to buy the trendiest fashion products with a variety of colours and designs. Best deals and discounts are available for all users. Itss a business solution app for the customer which is API base. Data comes from Server and We have to inform Server on Each Operation.
+
+
+
 
 <img src="https://github.com/jaawaadz/jaawaadz/blob/main/click1.webp" width ="180"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/clicky2.webp" width ="180"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/clicky3.webp" width ="180"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/clicky4.webp" width ="180">
 
 
 ## MyNetDiary (Exercise and Diet)
+
 Exercise and Diet App is API base app, in which Diet Details comes
 from server, when we post the data of the User. User can Set his exercise Plan, and App recommends the Exercise. I solo Work on this project and this Project I use Timer to tract the exercise, Retrofit for the API, Lottie for the Animations.
 Free Calorie Tracker features include:
@@ -56,11 +61,14 @@ MyNetDiary Premium provides all the guidance and features you may need for the b
 • Track up to 50 nutrients, set custom targets, get the recommendations for optimal nutrition
 • Total data privacy and protection - no account required, and we don't sell your info to 3rd parties
 
+
+
 <img src="https://github.com/jaawaadz/jaawaadz/blob/main/d1.jpeg" width ="180"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/d2.jpeg" width ="180"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/d3.jpeg" width ="180"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/d5.jpeg" width ="180">
 
 
 
 ## Thumbnail Maker - Channel art
+
 With this free thumbnail maker for YouTube , you can quickly and easily create stunning thumbnails, banners and cover photos for multiple social media platforms. This offers awesome thumbnails & banners for youtube the best experience you can get with a design app. Thumbnail Maker is a Sticker Editing App, in which Some Templates are load from Server and the user can Easily Edit them. We use Amazon S3 Server for the Json and Asserts. The StickerView is created by parsing Json to Gson. Editor has all the Functionalities like EditText, Styling, Font, etc. These all are also use by the user to create Custom Templates. I solo Work on that project. I use Json Parsing, Glide, Threads, AysncTask, data binding, View Model, Live Data, Resource Directory, Firebase Analytics and other Different 3rd Party Libraries.
 
 
@@ -69,7 +77,18 @@ With this free thumbnail maker for YouTube , you can quickly and easily create s
 
 <img src="https://github.com/jaawaadz/jaawaadz/blob/main/thum2.webp" width ="180"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/thum3.webp" width ="180"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/thum4.webp" width ="180"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/thu5.webp" width ="180">
 
+## ConsoliAds Mediation And Ads Network SDK
 
+It’s an Ad marketplace SDK for game and App Publishers to enable their Apps for Ad serving. I deal
+with Stats counts, Devices Analytics for GMS and HMS both, API Calls for the Server and provide the required data to the server for Campaign Management like OS Version, RAM, Device Model etc. I use Volley custom Request mechanism to make this achievable. Create Model and Architecture for this Process.
+In mediation we have a waterfall mechanism, if one AdNetwork fail to
+Provide the Ad then we Request the Other Ad network, I work on it with Team. My contribution is to put them on maven Solve the Crashes by Analyzing the Publish APK, remove the Memory Leaks and Handle the Thread Process.
+
+
+
+<img src="https://github.com/jaawaadz/jaawaadz/blob/main/con1.jpg" width ="720">
+<img src="https://github.com/jaawaadz/jaawaadz/blob/main/con2.jpg" width ="720">
+<img src="https://github.com/jaawaadz/jaawaadz/blob/main/con3.jpg" width ="720">
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jaawaadz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jaawaadz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jaawaadz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jaawaadz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/jaawaadz)  
 
