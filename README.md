@@ -8,7 +8,13 @@ This passion carried me through my Degree Of Software Engineering at Gc Universi
 
 So, now, in practical life, this passion remains with me. There's certainly yet more to learn, yet more problems to solve, and yet more to build. And for this, I am very grateful
 
-## Skills: Android App Development / Android SDK Development/ Kotlin / Java / Unity Plugin Development / Wordpress 
+## Skills and Experience: 
+*Android App Development
+*Android SDK Development
+*Kotlin
+*Java
+*Unity Plugin Development
+*Wordpress 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jaawaadz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jaawaadz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jaawaadz)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jaawaadz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/jaawaadz)  
