@@ -56,7 +56,7 @@ MyNetDiary Premium provides all the guidance and features you may need for the b
 • Track up to 50 nutrients, set custom targets, get the recommendations for optimal nutrition
 • Total data privacy and protection - no account required, and we don't sell your info to 3rd parties
 
-<img src="https://github.com/jaawaadz/jaawaadz/blob/main/d1.jpeg" width ="180"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/d2.jpeg" width ="180"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/d3.jpeg" width ="180"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/d3.jpeg" width ="180"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/d5.jpeg" width ="180">
+<img src="https://github.com/jaawaadz/jaawaadz/blob/main/d1.jpeg" width ="180"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/d2.jpeg" width ="180"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/d3.jpeg" width ="180"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/d5.jpeg" width ="180">
 
 
 
