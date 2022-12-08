@@ -22,14 +22,14 @@ So, now, in practical life, this passion remains with me. There's certainly yet 
 Clicky Online Shopping App – Best Online Shopping App in Pakistan
 🛍️ Perfect Online Shopping App to buy the trendiest fashion products with a variety of colours and designs. Best deals and discounts are available for all users. Itss a business solution app for the customer which is API base. Data comes from Server and We have to inform Server on Each Operation.
 
-<img src="https://github.com/jaawaadz/jaawaadz/blob/main/click1.webp" width ="250"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/clicky2.webp" width ="250"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/clicky3.webp" width ="250"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/clicky4.webp" width ="250">
+<img src="https://github.com/jaawaadz/jaawaadz/blob/main/click1.webp" width ="180"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/clicky2.webp" width ="180"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/clicky3.webp" width ="180"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/clicky4.webp" width ="180">
 
 
 
 ## Thumbnail Maker - Channel art
 With this free thumbnail maker for YouTube , you can quickly and easily create stunning thumbnails, banners and cover photos for multiple social media platforms. This offers awesome thumbnails & banners for youtube the best experience you can get with a design app. Thumbnail Maker is a Sticker Editing App, in which Some Templates are load from Server and the user can Easily Edit them. We use Amazon S3 Server for the Json and Asserts. The StickerView is created by parsing Json to Gson. Editor has all the Functionalities like EditText, Styling, Font, etc. These all are also use by the user to create Custom Templates. I solo Work on that project. I use Json Parsing, Glide, Threads, AysncTask, data binding, View Model, Live Data, Resource Directory, Firebase Analytics and other Different 3rd Party Libraries.
-<img src="https://github.com/jaawaadz/jaawaadz/blob/main/thum1.webp" width ="1000">
-<img src="https://github.com/jaawaadz/jaawaadz/blob/main/thum2.webp" width ="250"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/thum3.webp" width ="250"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/thum4.webp" width ="250"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/thu5.webp" width ="250">
+<img src="https://github.com/jaawaadz/jaawaadz/blob/main/thum1.webp" width ="720">
+<img src="https://github.com/jaawaadz/jaawaadz/blob/main/thum2.webp" width ="180"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/thum3.webp" width ="180"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/thum4.webp" width ="180"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/thu5.webp" width ="180">
 
 
 
