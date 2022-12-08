@@ -114,7 +114,10 @@ with Stats counts, Devices Analytics for GMS and HMS both, API Calls for the Ser
 In mediation we have a waterfall mechanism, if one AdNetwork fail to
 Provide the Ad then we Request the Other Ad network, I work on it with Team. My contribution is to put them on maven Solve the Crashes by Analyzing the Publish APK, remove the Memory Leaks and Handle the Thread Process.
 
-
+* Cross Promotion is a way to promote your particular game within your other games. The main purpose of cross-promotion is to acquire quality users and keep your users engaged with your games.
+* Network Advertising is a way to advertise your Apps and Ads within the Apps of other developers. The purpose is to promote your App and Ad through Mobile Media. 
+* ConsoliAds In-app Campaigns Integration
+* In App Feature is a way to promote your particular game feature within your game.
 
 <img src="https://github.com/jaawaadz/jaawaadz/blob/main/con1.jpeg" width ="720">
 <img src="https://github.com/jaawaadz/jaawaadz/blob/main/con2.png" width ="720">
