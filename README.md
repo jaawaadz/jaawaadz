@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Ahmad Jawad
 #### Android Development
-![Android Development](https://github.com/jaawaadz/jaawaadz/blob/main/image1.gif)
+![Android Development](https://github.com/jaawaadz/jaawaadz/blob/main/20221208_160422.jpg)
 
 Ever since I was a little kid, software development has been my passion. I still remember sitting in front of a P4 computer, with the turbo C , making it print "Hello, Jawad" for the very first time. As I went through the BASIC tutorial, it was almost magic, being able to get the computer to do whatever I wanted, just by typing in these funny little symbols, limited only by my own imagination and ingenuity. Throughout my College life, I latched on to any ideas for projects I could get, moving from "Hello World", I learned C, then C++, tearing through any books I could find on anything remotely related to software development. I was insatiable.
 
