@@ -29,6 +29,7 @@ Clicky Online Shopping App – Best Online Shopping App in Pakistan
 ## Thumbnail Maker - Channel art
 With this free thumbnail maker for YouTube , you can quickly and easily create stunning thumbnails, banners and cover photos for multiple social media platforms. This offers awesome thumbnails & banners for youtube the best experience you can get with a design app. Thumbnail Maker is a Sticker Editing App, in which Some Templates are load from Server and the user can Easily Edit them. We use Amazon S3 Server for the Json and Asserts. The StickerView is created by parsing Json to Gson. Editor has all the Functionalities like EditText, Styling, Font, etc. These all are also use by the user to create Custom Templates. I solo Work on that project. I use Json Parsing, Glide, Threads, AysncTask, data binding, View Model, Live Data, Resource Directory, Firebase Analytics and other Different 3rd Party Libraries.
 <img src="https://github.com/jaawaadz/jaawaadz/blob/main/thum1.webp" width ="720">
+
 <img src="https://github.com/jaawaadz/jaawaadz/blob/main/thum2.webp" width ="180"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/thum3.webp" width ="180"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/thum4.webp" width ="180"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/thu5.webp" width ="180">
 
 
