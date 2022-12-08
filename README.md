@@ -22,11 +22,7 @@ So, now, in practical life, this passion remains with me. There's certainly yet 
 Clicky Online Shopping App – Best Online Shopping App in Pakistan
 🛍️ Perfect Online Shopping App to buy the trendiest fashion products with a variety of colours and designs. Best deals and discounts are available for all users. Itss a business solution app for the customer which is API base. Data comes from Server and We have to inform Server on Each Operation.
 
-<img src="https://github.com/jaawaadz/jaawaadz/blob/main/click1.webp" width ="250">
-<img src="https://github.com/jaawaadz/jaawaadz/blob/main/clicky2.webp" width ="250">
-<img src="https://github.com/jaawaadz/jaawaadz/blob/main/clicky3.webp" width ="250">
-<img src="https://github.com/jaawaadz/jaawaadz/blob/main/clicky4.webp" width ="250">
-<img src="https://github.com/jaawaadz/jaawaadz/blob/main/cliky5.webp" width ="250">
+<img src="https://github.com/jaawaadz/jaawaadz/blob/main/click1.webp" width ="250"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/clicky2.webp" width ="250"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/clicky3.webp" width ="250"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/clicky4.webp" width ="250"><img src="https://github.com/jaawaadz/jaawaadz/blob/main/cliky5.webp" width ="250">
 
 
 
